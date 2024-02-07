@@ -6,7 +6,6 @@ load_dotenv()
 
 st.set_page_config("Impressico's Developer Performance Analysis Tool", page_icon="https://media.licdn.com/dms/image/C4E0BAQErzHJr7lA-uQ/company-logo_200_200/0/1631356294168?e=1714608000&v=beta&t=lbeplkUBiGsPGvObCIUmLk5qRA9X8NvoJGHWBZEC6so", layout= "wide")
 
-token = "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"
 
 
 st.title(" Developer Performance Analysis 🥇 ")
